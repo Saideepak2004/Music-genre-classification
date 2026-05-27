@@ -98,3 +98,4 @@ Achieved good multi-class classification performance on music datasets
 Saideepak
 ## GitHub Repositorylink
 
+(https://github.com/Saideepak2004/Music-genre-classification.git)
